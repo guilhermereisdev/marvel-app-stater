@@ -77,6 +77,4 @@ class ListCharacterFragment : BaseFragment<FragmentListCharacterBinding, ListCha
         container: ViewGroup?
     ): FragmentListCharacterBinding =
         FragmentListCharacterBinding.inflate(inflater, container, false)
-
-
 }

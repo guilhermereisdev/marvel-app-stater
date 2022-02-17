@@ -93,6 +93,4 @@ class FavoriteCharacterFragment :
         container: ViewGroup?
     ): FragmentFavoriteCharacterBinding =
         FragmentFavoriteCharacterBinding.inflate(inflater, container, false)
-
-
 }
