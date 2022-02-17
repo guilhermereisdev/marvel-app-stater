@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import dagger.hilt.android.AndroidEntryPoint
 import daniel.lop.io.marvelappstarter.R
 import daniel.lop.io.marvelappstarter.databinding.FragmentListCharacterBinding
-import daniel.lop.io.marvelappstarter.di.adapters.CharacterAdapter
+import daniel.lop.io.marvelappstarter.ui.adapters.CharacterAdapter
 import daniel.lop.io.marvelappstarter.ui.base.BaseFragment
 import daniel.lop.io.marvelappstarter.ui.state.ResourceState
 import daniel.lop.io.marvelappstarter.util.hide

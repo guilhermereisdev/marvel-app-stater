@@ -14,7 +14,7 @@ import com.bumptech.glide.load.engine.Resource
 import dagger.hilt.android.AndroidEntryPoint
 import daniel.lop.io.marvelappstarter.R
 import daniel.lop.io.marvelappstarter.databinding.FragmentSearchCharacterBinding
-import daniel.lop.io.marvelappstarter.di.adapters.CharacterAdapter
+import daniel.lop.io.marvelappstarter.ui.adapters.CharacterAdapter
 import daniel.lop.io.marvelappstarter.ui.base.BaseFragment
 import daniel.lop.io.marvelappstarter.ui.state.ResourceState
 import daniel.lop.io.marvelappstarter.util.Constants.DEFAULT_QUERY

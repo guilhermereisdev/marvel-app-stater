@@ -1,4 +1,4 @@
-package daniel.lop.io.marvelappstarter.di.adapters
+package daniel.lop.io.marvelappstarter.ui.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

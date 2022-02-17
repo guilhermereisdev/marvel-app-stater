@@ -12,7 +12,7 @@ import dagger.hilt.android.AndroidEntryPoint
 import daniel.lop.io.marvelappstarter.R
 import daniel.lop.io.marvelappstarter.data.model.character.CharacterModel
 import daniel.lop.io.marvelappstarter.databinding.FragmentDetailsCharacterBinding
-import daniel.lop.io.marvelappstarter.di.adapters.ComicAdapter
+import daniel.lop.io.marvelappstarter.ui.adapters.ComicAdapter
 import daniel.lop.io.marvelappstarter.ui.base.BaseFragment
 import daniel.lop.io.marvelappstarter.ui.state.ResourceState
 import daniel.lop.io.marvelappstarter.util.hide
